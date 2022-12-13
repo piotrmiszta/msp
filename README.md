@@ -1,2 +1,7 @@
 # msp
-C math library
+Simple ANSI C math library
+
+This library conatins:
+1. vector
+2. matrix
+3. polynominals solve
