@@ -1,5 +1,5 @@
 # msp
-Simple ANSI C math library
+Simple C math library
 
 This library conatins:
 1. vector
